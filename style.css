@@ -19,4 +19,11 @@ footer{
     padding:50px;
     font-weight: bolder;
 }
-
+#logo{
+    max-width:5%;
+    height: auto;
+}
+#computer{
+    max-width:10%;
+    height:auto;
+}
