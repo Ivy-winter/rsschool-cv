@@ -1,6 +1,6 @@
 # **IRMA VIDGINYTE**    
 email: <irmavidgin@yahoo.com>  
-
+tel: +370 647 86231  
 I am motivated to create professional websites and software. I have 15+ years of experience in finance and want to switch to IT sector.
 
 ---
