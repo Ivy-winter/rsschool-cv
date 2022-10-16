@@ -1,0 +1,29 @@
+body{
+    text-align:center;
+   font-size: medium;
+   background-color: rgb(207, 234, 248);;
+}
+ul{
+    list-style-position: inside;
+}
+.center{
+    width:400px;
+    margin:0 auto;
+    text-align:left;
+}
+ h1, footer{
+    background-color: rgb(32, 170, 239);
+}
+footer{
+    display:block;
+    padding:50px;
+    font-weight: bolder;
+}
+#logo{
+    max-width:5%;
+    height: auto;
+}
+#computer{
+    max-width:10%;
+    height:auto;
+}

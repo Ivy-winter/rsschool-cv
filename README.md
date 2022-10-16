@@ -1,1 +1,1 @@
-https://Ivy-winter.github.io/rsschool-cv/cv
+https://Ivy-winter.github.io/rsschool-cv/
